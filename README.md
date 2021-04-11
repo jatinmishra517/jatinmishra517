@@ -1,4 +1,4 @@
-### <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , Jatin Vishal Mishra here ! <img style="align:right;" src="https://komarev.com/ghpvc/?username=jatinmishra517&label=Profile%20views&color=0e75b6&style=flat" alt="jatinmishra517" /></h1>
+### <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , Jatin Vishal Mishra here ! <img style="margin-right:10px;" src="https://komarev.com/ghpvc/?username=jatinmishra517&label=Profile%20views&color=0e75b6&style=flat" alt="jatinmishra517" /></h1>
 
 <h4>First year UG student at MNNIT Allahabad<br>Self proclaimed Wanderer <i>trying out web development and competitive programming,as of now</i> </h4>
 <h3>🔭 I’m currently working on to build a better version of myself with lesser bugs.</h3>  
